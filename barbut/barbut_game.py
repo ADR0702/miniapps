@@ -10,7 +10,7 @@ We play 10 hands.
 Win more hands than the house...
 And you take it all.
 Place your bet.
-Roll the dice.
+Roll the dice. 
 Good luck!""")
 
 computer_amount = 10_000
