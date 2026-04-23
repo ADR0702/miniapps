@@ -4,7 +4,7 @@ from bank_functions import pin, account_menu
 print("wellcome to DuBank")
 pin_ok=pin()
 
-if not pin_ok():
+if not pin_ok:
     exit()
 
 
